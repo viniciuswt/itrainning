@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Agache-se e ande",
+        "time": "45 segundos",
+        "thumbnail": "assets/squat1.jpg",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    },
+    {
+        "title": "Elevação do calcanhar",
+        "time": "55 segundos",
+        "thumbnail": "assets/squat2.jpg",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    },
+    {
+        "title": "Agachamento",
+        "time": "60 segundos",
+        "thumbnail": "assets/squat3.jpg",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    },
+    {
+        "title": "Agachamento de perna lateral",
+        "time": "120 segundos",
+        "thumbnail": "assets/squat4.jpg",
+        "videoUrl": "https://flutter.github.io/assets-for-api-docs/assets/videos/butterfly.mp4"
+    }
+]
