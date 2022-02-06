@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:itrainning/home.dart';
+import 'package:itrainning/login.dart';
+//import 'package:itrainning/home.dart';
 //import 'package:itrainning/video_info.dart';
 
 //import 'home.dart';
@@ -20,7 +21,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HomePage(),
+      home: LoginPage(),
+      //home: HomePage(),
     );
   }
 }
